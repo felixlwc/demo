@@ -1,4 +1,0 @@
-# demo
-# demo
-# YC
-# UC
